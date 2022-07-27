@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">dia28</string>
+
+        <string name="boton_ok">Aceptar</string>
+        <string name="boton_ko">Cancelar</string>
+        <string name="msj_ok">Muchas gracias, usuario!</string>
+        <string name="msj_ko">Que te den</string>
+        <string name="titulo">Decision</string>
+        <string name="mensaje">Analiza con cuidado</string>
+
+</resources>
