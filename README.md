@@ -5,8 +5,8 @@
 
 ## Another quick example usign Android Studio project called "examen_practico" with Emulator Pixel Api30
 
-Add New -> add random text
-Delete First -> Deletes the first random text
-Show All -> Shows all random text
+- Add New -> add random text
+- Delete First -> Deletes the first random text
+- Show All -> Shows all random text
 
 ![image](https://user-images.githubusercontent.com/57594425/181235650-111f1aac-7501-4cfe-9b8c-80c7fcfbe7bb.png)
